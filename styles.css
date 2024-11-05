@@ -1,0 +1,8 @@
+b {background:yellow}
+.s1 {background:lime; color:blue; text-decoration:underline; font-size:30 }
+<!-- Pseudoclass -->
+input {
+	background:cyan; 
+	color:blue; 
+	font-size:30
+	}
